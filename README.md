@@ -1,2 +1,2 @@
 # perl
-Some Example Perl Scripts
+Some Example Perl Scripts - hosted on github
